@@ -6,3 +6,4 @@ $isSunny = false;
 $something = true;
 
 var_dump($a, $b, $myName, $isSunny, $something);
+
